@@ -1,0 +1,2 @@
+# cjsException
+exception code
